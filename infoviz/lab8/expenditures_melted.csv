@@ -1,0 +1,193 @@
+Mon,Department,variable,value
+Jan,Budget,Information Technology,450.0
+Jan,Actual,Information Technology,463.0
+Feb,Budget,Information Technology,450.0
+Feb,Actual,Information Technology,472.0
+Mar,Budget,Information Technology,470.0
+Mar,Actual,Information Technology,483.0
+Apr,Budget,Information Technology,475.0
+Apr,Actual,Information Technology,488.0
+May,Budget,Information Technology,475.0
+May,Actual,Information Technology,490.0
+Jun,Budget,Information Technology,500.0
+Jun,Actual,Information Technology,534.0
+Jul,Budget,Information Technology,500.0
+Jul,Actual,Information Technology,557.0
+Aug,Budget,Information Technology,500.0
+Aug,Actual,Information Technology,563.0
+Sep,Budget,Information Technology,500.0
+Sep,Actual,Information Technology,552.0
+Oct,Budget,Information Technology,500.0
+Oct,Actual,Information Technology,542.0
+Nov,Budget,Information Technology,500.0
+Nov,Actual,Information Technology,263.0
+Dec,Budget,Information Technology,500.0
+Dec,Actual,Information Technology,
+Jan,Budget,Executive,250.0
+Jan,Actual,Executive,246.0
+Feb,Budget,Executive,255.0
+Feb,Actual,Executive,253.0
+Mar,Budget,Executive,260.0
+Mar,Actual,Executive,375.0
+Apr,Budget,Executive,265.0
+Apr,Actual,Executive,376.0
+May,Budget,Executive,270.0
+May,Actual,Executive,384.0
+Jun,Budget,Executive,275.0
+Jun,Actual,Executive,388.0
+Jul,Budget,Executive,280.0
+Jul,Actual,Executive,394.0
+Aug,Budget,Executive,290.0
+Aug,Actual,Executive,394.0
+Sep,Budget,Executive,300.0
+Sep,Actual,Executive,394.0
+Oct,Budget,Executive,305.0
+Oct,Actual,Executive,396.0
+Nov,Budget,Executive,310.0
+Nov,Actual,Executive,201.0
+Dec,Budget,Executive,400.0
+Dec,Actual,Executive,
+Jan,Budget,Facilities,190.0
+Jan,Actual,Facilities,193.0
+Feb,Budget,Facilities,190.0
+Feb,Actual,Facilities,195.0
+Mar,Budget,Facilities,180.0
+Mar,Actual,Facilities,186.0
+Apr,Budget,Facilities,170.0
+Apr,Actual,Facilities,174.0
+May,Budget,Facilities,170.0
+May,Actual,Facilities,166.0
+Jun,Budget,Facilities,180.0
+Jun,Actual,Facilities,168.0
+Jul,Budget,Facilities,190.0
+Jul,Actual,Facilities,200.0
+Aug,Budget,Facilities,200.0
+Aug,Actual,Facilities,210.0
+Sep,Budget,Facilities,200.0
+Sep,Actual,Facilities,208.0
+Oct,Budget,Facilities,190.0
+Oct,Actual,Facilities,183.0
+Nov,Budget,Facilities,190.0
+Nov,Actual,Facilities,87.0
+Dec,Budget,Facilities,200.0
+Dec,Actual,Facilities,
+Jan,Budget,Finance,100.0
+Jan,Actual,Finance,96.0
+Feb,Budget,Finance,100.0
+Feb,Actual,Finance,95.0
+Mar,Budget,Finance,100.0
+Mar,Actual,Finance,95.0
+Apr,Budget,Finance,110.0
+Apr,Actual,Finance,98.0
+May,Budget,Finance,110.0
+May,Actual,Finance,101.0
+Jun,Budget,Finance,110.0
+Jun,Actual,Finance,109.0
+Jul,Budget,Finance,120.0
+Jul,Actual,Finance,110.0
+Aug,Budget,Finance,120.0
+Aug,Actual,Finance,112.0
+Sep,Budget,Finance,120.0
+Sep,Actual,Finance,112.0
+Oct,Budget,Finance,120.0
+Oct,Actual,Finance,113.0
+Nov,Budget,Finance,120.0
+Nov,Actual,Finance,66.0
+Dec,Budget,Finance,120.0
+Dec,Actual,Finance,
+Jan,Budget,Human Resources,50.0
+Jan,Actual,Human Resources,51.0
+Feb,Budget,Human Resources,50.0
+Feb,Actual,Human Resources,64.0
+Mar,Budget,Human Resources,50.0
+Mar,Actual,Human Resources,58.0
+Apr,Budget,Human Resources,51.0
+Apr,Actual,Human Resources,53.0
+May,Budget,Human Resources,51.0
+May,Actual,Human Resources,50.0
+Jun,Budget,Human Resources,51.0
+Jun,Actual,Human Resources,50.0
+Jul,Budget,Human Resources,52.0
+Jul,Actual,Human Resources,48.0
+Aug,Budget,Human Resources,52.0
+Aug,Actual,Human Resources,47.0
+Sep,Budget,Human Resources,52.0
+Sep,Actual,Human Resources,49.0
+Oct,Budget,Human Resources,53.0
+Oct,Actual,Human Resources,50.0
+Nov,Budget,Human Resources,53.0
+Nov,Actual,Human Resources,25.0
+Dec,Budget,Human Resources,53.0
+Dec,Actual,Human Resources,
+Jan,Budget,Marketing,100.0
+Jan,Actual,Marketing,99.0
+Feb,Budget,Marketing,100.0
+Feb,Actual,Marketing,97.0
+Mar,Budget,Marketing,100.0
+Mar,Actual,Marketing,95.0
+Apr,Budget,Marketing,100.0
+Apr,Actual,Marketing,97.0
+May,Budget,Marketing,100.0
+May,Actual,Marketing,104.0
+Jun,Budget,Marketing,100.0
+Jun,Actual,Marketing,152.0
+Jul,Budget,Marketing,100.0
+Jul,Actual,Marketing,89.0
+Aug,Budget,Marketing,100.0
+Aug,Actual,Marketing,90.0
+Sep,Budget,Marketing,100.0
+Sep,Actual,Marketing,86.0
+Oct,Budget,Marketing,100.0
+Oct,Actual,Marketing,93.0
+Nov,Budget,Marketing,150.0
+Nov,Actual,Marketing,73.0
+Dec,Budget,Marketing,150.0
+Dec,Actual,Marketing,
+Jan,Budget,Sales,510.0
+Jan,Actual,Sales,524.0
+Feb,Budget,Sales,475.0
+Feb,Actual,Sales,458.0
+Mar,Budget,Sales,475.0
+Mar,Actual,Sales,467.0
+Apr,Budget,Sales,505.0
+Apr,Actual,Sales,503.0
+May,Budget,Sales,480.0
+May,Actual,Sales,489.0
+Jun,Budget,Sales,480.0
+Jun,Actual,Sales,480.0
+Jul,Budget,Sales,510.0
+Jul,Actual,Sales,512.0
+Aug,Budget,Sales,485.0
+Aug,Actual,Sales,479.0
+Sep,Budget,Sales,485.0
+Sep,Actual,Sales,484.0
+Oct,Budget,Sales,515.0
+Oct,Actual,Sales,514.0
+Nov,Budget,Sales,490.0
+Nov,Actual,Sales,247.0
+Dec,Budget,Sales,490.0
+Dec,Actual,Sales,
+Jan,Budget,Technical Support,35.0
+Jan,Actual,Technical Support,29.0
+Feb,Budget,Technical Support,35.0
+Feb,Actual,Technical Support,28.0
+Mar,Budget,Technical Support,35.0
+Mar,Actual,Technical Support,28.0
+Apr,Budget,Technical Support,36.0
+Apr,Actual,Technical Support,27.0
+May,Budget,Technical Support,36.0
+May,Actual,Technical Support,26.0
+Jun,Budget,Technical Support,36.0
+Jun,Actual,Technical Support,26.0
+Jul,Budget,Technical Support,37.0
+Jul,Actual,Technical Support,25.0
+Aug,Budget,Technical Support,37.0
+Aug,Actual,Technical Support,25.0
+Sep,Budget,Technical Support,37.0
+Sep,Actual,Technical Support,26.0
+Oct,Budget,Technical Support,38.0
+Oct,Actual,Technical Support,25.0
+Nov,Budget,Technical Support,38.0
+Nov,Actual,Technical Support,13.0
+Dec,Budget,Technical Support,38.0
+Dec,Actual,Technical Support,
